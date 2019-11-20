@@ -1,5 +1,5 @@
 # asp.net-website
-i have created this website using asp.net core
+I have created this website using asp.net core
 
 This website is has a basic navigation on the top bar. It has slideshow in the middle. 
 And two pages on the top navigation bar, about and contact page. 
